@@ -1,6 +1,8 @@
-# EEE598_SML_project
-Pytorch code for reproducing the results of our group project.
+ 
 
+# "Towards Discriminative Latent Spaces for Compact Hashing and Image Retrieval"
+Pytorch code for reproducing the results of our group project for EEE598 course (Statistical Machine Learning: From Theory to Algorithms) taught by Profesor Gautam Dasarathy
+ 
 # Group members-
 
 1.Kowshik Thopalli 
