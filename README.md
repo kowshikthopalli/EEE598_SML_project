@@ -17,7 +17,7 @@ This script will run a KNN classifier, plot the confusion matrix and also plots 
 
 Requirements- 
 
-PyTorch 1.0  with cuda and 
+PyTorch 1.0  with cuda 
 
 Torchvision
 
