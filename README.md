@@ -1,11 +1,15 @@
 # EEE598_SML_project
 Pytorch code for reproducing the results of our group project.
 Requirements-
-'PyTorch 1.0'
-'Torchvision' 
+'PyTorch 1.0' 
+
+'Torchvision'  
+
 and usual Python ML libraries such as
-'Scipy'
-'Numpy'
+'Scipy' 
+
+'Numpy' 
+
 'scikit-learn'
 'pandas'
 'seaborn'
