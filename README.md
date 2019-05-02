@@ -15,10 +15,10 @@ Torchvision
 
 and usual Python ML libraries such as  
 
-Scipy, Numpy, pandas
+Scipy, Numpy, pandas,
 
-scikit-learn 
+scikit-learn, 
 
-seaborn, matplotlib
+seaborn and matplotlib
 
 
