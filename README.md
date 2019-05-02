@@ -14,7 +14,7 @@ Numpy
 
 scikit-learn 
 
-panda 
+pandas
 
 seaborn
 
