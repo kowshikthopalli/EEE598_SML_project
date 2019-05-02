@@ -11,18 +11,14 @@ Requirements-
 
 PyTorch 1.0  with cuda and 
 
-Torchvisio 
+Torchvision
 
 and usual Python ML libraries such as  
 
-Scipy
-
-Numpy
+Scipy, Numpy, pandas
 
 scikit-learn 
 
-pandas
-
-seaborn
+seaborn, matplotlib
 
 
